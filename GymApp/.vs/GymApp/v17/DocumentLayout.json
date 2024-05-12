@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\P\u0130KSEL AKADEM\u0130\\Documents\\GitHub\\GymApp\\GymApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\p\u0130ksel akadem\u0130\\documents\\github\\gymapp\\gymapp\\gymapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|solutionrelative:gymapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\p\u0130ksel akadem\u0130\\documents\\github\\gymapp\\gymapp\\gymapp.web\\areas\\management\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|solutionrelative:gymapp.web\\areas\\management\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P\u0130KSEL AKADEM\u0130\\Documents\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "GymApp.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\P\u0130KSEL AKADEM\u0130\\Documents\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Program.cs",
+              "RelativeToolTip": "GymApp.Web\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:21:18.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ContactMessage.cs",
               "DocumentMoniker": "C:\\Users\\P\u0130KSEL AKADEM\u0130\\Documents\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Models\\ContactMessage.cs",
               "RelativeDocumentMoniker": "GymApp.Web\\Models\\ContactMessage.cs",
@@ -46,20 +63,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TrainerController.cs",
               "DocumentMoniker": "C:\\Users\\P\u0130KSEL AKADEM\u0130\\Documents\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Areas\\Management\\Controllers\\TrainerController.cs",
               "RelativeDocumentMoniker": "GymApp.Web\\Areas\\Management\\Controllers\\TrainerController.cs",
               "ToolTip": "C:\\Users\\P\u0130KSEL AKADEM\u0130\\Documents\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Areas\\Management\\Controllers\\TrainerController.cs",
               "RelativeToolTip": "GymApp.Web\\Areas\\Management\\Controllers\\TrainerController.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAQwIAAAAAAAAAA",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAQwHMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T18:10:24.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\P\u0130KSEL AKADEM\u0130\\Documents\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GymApp.Web\\Controllers\\HomeController.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "htmlpage.html",
               "DocumentMoniker": "C:\\Users\\P\u0130KSEL AKADEM\u0130\\Documents\\GitHub\\GymApp\\GymApp\\GymApp.Web\\htmlpage.html",
               "RelativeDocumentMoniker": "GymApp.Web\\htmlpage.html",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MailSender.cs",
               "DocumentMoniker": "C:\\Users\\P\u0130KSEL AKADEM\u0130\\Documents\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Helpers\\MailSender.cs",
               "RelativeDocumentMoniker": "GymApp.Web\\Helpers\\MailSender.cs",
