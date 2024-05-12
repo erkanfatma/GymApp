@@ -19,7 +19,7 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-//bu bir yorumdur
+//bu bir yorumdur  
 app.UseEndpoints(endpoints => {
 
     endpoints.MapAreaControllerRoute(
